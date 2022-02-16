@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.65.30:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>Self Releases Nexus Repository</name>
+	      <url>http://localhost:8081/self/repository/maven-web-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.65.30:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>Self Releases Nexus Repository</name>
+	      <url>http://localhost:8081/self/repository/maven-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
