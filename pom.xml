@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Self Releases Nexus Repository</name>
-	      <url>http://localhost:8081/self/repository/maven-web-release/</url>
+	      <url>http://localhost:8081/newmaven-web-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Self Releases Nexus Repository</name>
-	      <url>http://localhost:8081/self/repository/maven-web-snapshot/</url>
+	      <url>http://localhost:8081/newmaven-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
